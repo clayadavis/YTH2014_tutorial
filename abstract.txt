@@ -1,0 +1,28 @@
+Title: Exploring, Analyzing, and Visualizing Open Data on the Web
+
+I. Describe the project you will present. Include who the project aims to reach, the specific technologies used and the role it plays, and the health goals addressed.
+
+This is a hands-on tutorial on obtaining and combining freely-available health and demographics data from the web. Participants will use IPython Notebook to acquire, analyze, and visualize data from diverse web sources of health and demographic data. Specifically, we will use data from Census.gov and Kinsey Reporter to investigate possible geographic trends in reports of sexual behavior.
+
+This tutorial is aimed at health domain experts interested in leveraging freely-available data to inform research and decision making. Programming experience is not a prerequisite; we will cover the basics of Python needed to complete the tutorial.
+
+
+II. List three main points or learning objectives that your presentation will include. If presenting in the research theme, include information about the study's purpose, methodology, and results.
+
+Participants will begin with the basics of Python programming with the IPython Notebook. We will then obtain and examine data from the free-to-use Kinsey Reporter API <https://kinseyreporter.org/data>. Finally, we will combine KR and US Census data in order to visualize the results as a map.
+
+III. Explain how your presentation is important to the field of youth health and technology.
+
+Initiatives such as Data.gov and HealthData.gov aim to make healthcare more transparent and effective by sharing data. HealthData.gov alone lists 1.1k datasets available to the public. But due to the speed and volume at which new sources become available, much of this data is only accessible in machine-readable formats.
+
+This tutorial seeks to enable health domain experts -- who may not have experience in computer programming -- in obtaining and exploring data relevant to their field. Whether one seeks to inform the public, practitioners, or policymakers, this tutorial's analysis and visualization techniques can make the message both clearer and better supported.
+
+Program Description
+(150 word limit):
+This is your chance to entice attendees to come to your session-explain your topic in a way that is compelling and interesting. This brief description will be included in the conference program.
+
+Free-to-use health data abound on the web: HealthData.gov lists 1.1k datasets available, Census.gov provides myriad data on demographics and government assistance, and Kinsey Reporter's database of thousands of reports of sexual behavior is freely available. Leveraging these resources can increase one's power to explore data, conduct detailed analyses, and create web-enabled applications. 
+
+This hands-on tutorial is aimed at experts in the heath domain interested in accessing and combining diverse data to inform research and decision making. We will use IPython notebook to obtain real data from Kinsey Reporter and the US Census, then combine and visualize it in map form.
+
+Attendees should bring an internet-enabled computer with an updated, modern web browser. No programming knowledge is required or assumed, we will cover the elements of Python necessary to complete the tutorial.
